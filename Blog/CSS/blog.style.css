@@ -1,0 +1,23 @@
+body {
+    background-color: #dedee2;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+}
+
+p {
+    text-align: left;
+    color: black;
+}
+
+.row {
+    align-items: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 45%;
+}
